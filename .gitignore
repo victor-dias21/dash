@@ -7,6 +7,11 @@ __pycache__/
 venv/
 env/
 ENV/
+.venv/
+
+# Chrome browser
+chrome-linux64/
+chrome-linux64.zip
 
 # Distribution / packaging
 .Python
